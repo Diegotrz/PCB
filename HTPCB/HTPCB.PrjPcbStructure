@@ -1,8 +1,12 @@
 Record=TopLevelDocument|FileName=AnalisisAC.SchDoc|SheetNumber=8
 Record=NoMainPathDocument|SourceDocument=AnalisisAC.SchDoc|FileName=Barrido2fuentes.SchDoc|SheetNumber=7
 Record=NoMainPathDocument|SourceDocument=AnalisisAC.SchDoc|FileName=Barrido_1fuente.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=AnalisisAC.SchDoc|FileName=Barridotemp.SchDoc|SheetNumber=11
 Record=NoMainPathDocument|SourceDocument=AnalisisAC.SchDoc|FileName=DC.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=AnalisisAC.SchDoc|FileName=FourierHT.SchDoc|SheetNumber=9
 Record=NoMainPathDocument|SourceDocument=AnalisisAC.SchDoc|FileName=HTDC.SchDoc|SheetNumber=3
 Record=NoMainPathDocument|SourceDocument=AnalisisAC.SchDoc|FileName=HTparametros.SchDoc|SheetNumber=5
 Record=NoMainPathDocument|SourceDocument=AnalisisAC.SchDoc|FileName=HTtransitorio.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=AnalisisAC.SchDoc|FileName=polosyzeros.SchDoc|SheetNumber=12
 Record=NoMainPathDocument|SourceDocument=AnalisisAC.SchDoc|FileName=Transitorio.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=AnalisisAC.SchDoc|FileName=WorstCaseHT.SchDoc|SheetNumber=10
