@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=C3 Old Footprint=RAD-0.3 New Footprint=RAD-0.1
+Add Component: Footprint Not Found HDR1X2H
+Add Component: Footprint Not Found HDR1X2H
+Add Component: Footprint Not Found HDR1X2H
+Add Pin To Net: Unknown Pin: Pin V1-1
+Add Pin To Net: Unknown Pin: Pin V1-2
+Add Pin To Net: Unknown Pin: Pin V2-1
+Add Pin To Net: Unknown Pin: Pin V2-2
+Add Pin To Net: Unknown Pin: Pin V3-1
+Add Pin To Net: Unknown Pin: Pin V3-2
+Add Class Member: Failed to add class member : Component V1 PWL(0 0 10u 0 20u 36)
+Add Class Member: Failed to add class member : Component V2 PWL(0 0 8m 0 8.01m 15)
+Add Class Member: Failed to add class member : Component V3 PWL(0 0 0 0 2m 16.5)

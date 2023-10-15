@@ -1,0 +1,15 @@
+Change Component Footprint: Designator=P4 Old Footprint=PCBComponent_1 New Footprint=HDR1X2
+Added Component: Designator=P?(PCBComponent_1)
+Add Component: Footprint Not Found HDR1X2H
+Add Component: Footprint Not Found HDR1X2H
+Add Component: Footprint Not Found HDR1X2H
+Add Pin To Net: Unknown Pin: Pin V1-1
+Add Pin To Net: Unknown Pin: Pin V1-2
+Add Pin To Net: Unknown Pin: Pin V2-1
+Add Pin To Net: Unknown Pin: Pin V2-2
+Add Pin To Net: Unknown Pin: Pin V3-1
+Add Pin To Net: Unknown Pin: Pin V3-2
+Added Member To Class: ClassName=Boost Converter Member=Component P? Borne_2
+Add Class Member: Failed to add class member : Component V1 VPWL
+Add Class Member: Failed to add class member : Component V2 VPWL
+Add Class Member: Failed to add class member : Component V3 VPWL

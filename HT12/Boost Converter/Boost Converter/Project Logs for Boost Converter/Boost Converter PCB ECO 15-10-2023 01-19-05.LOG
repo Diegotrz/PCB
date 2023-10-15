@@ -1,0 +1,25 @@
+Change Component Footprint: Designator=R1 Old Footprint=AXIAL-0.3 New Footprint=PCBComponent_1
+Change Component Footprint: Designator=R2 Old Footprint=AXIAL-0.3 New Footprint=PCBComponent_1
+Change Component Footprint: Designator=R3 Old Footprint=AXIAL-0.3 New Footprint=PCBComponent_1
+Change Component Footprint: Designator=R4 Old Footprint=AXIAL-0.3 New Footprint=PCBComponent_1
+Change Component Footprint: Designator=R5 Old Footprint=AXIAL-0.3 New Footprint=PCBComponent_1
+Change Component Footprint: Designator=R6 Old Footprint=AXIAL-0.3 New Footprint=PCBComponent_1
+Change Component Footprint: Designator=R7 Old Footprint=AXIAL-0.3 New Footprint=PCBComponent_1
+Change Component Footprint: Designator=R8 Old Footprint=AXIAL-0.3 New Footprint=PCBComponent_1
+Change Component Footprint: Designator=R9 Old Footprint=AXIAL-0.3 New Footprint=PCBComponent_1
+Change Component Footprint: Designator=R10 Old Footprint=AXIAL-0.3 New Footprint=PCBComponent_1
+Change Component Footprint: Designator=R11 Old Footprint=AXIAL-0.3 New Footprint=PCBComponent_1
+Change Component Footprint: Designator=R12 Old Footprint=AXIAL-0.3 New Footprint=PCBComponent_1
+Change Component Footprint: Designator=R13 Old Footprint=AXIAL-0.3 New Footprint=PCBComponent_1
+Add Component: Footprint Not Found HDR1X2H
+Add Component: Footprint Not Found HDR1X2H
+Add Component: Footprint Not Found HDR1X2H
+Add Pin To Net: Unknown Pin: Pin V1-1
+Add Pin To Net: Unknown Pin: Pin V1-2
+Add Pin To Net: Unknown Pin: Pin V2-1
+Add Pin To Net: Unknown Pin: Pin V2-2
+Add Pin To Net: Unknown Pin: Pin V3-1
+Add Pin To Net: Unknown Pin: Pin V3-2
+Add Class Member: Failed to add class member : Component V1 PWL(0 0 10u 0 20u 36)
+Add Class Member: Failed to add class member : Component V2 PWL(0 0 8m 0 8.01m 15)
+Add Class Member: Failed to add class member : Component V3 PWL(0 0 0 0 2m 16.5)

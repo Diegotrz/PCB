@@ -1,0 +1,104 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\diego\Downloads\Boost Converter\Boost Converter\Boost Converter.PcbDoc
+Date     : 15/10/2023
+Time     : 02:58:02
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R6-1(1755mil,715mil) on Multi-Layer And Pad P2-2(2445mil,620mil) on Multi-Layer 
+Rule Violations :1
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=24.25mil) (Max=1000mil) (Preferred=50mil) (InNet('VIN3'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=63.09mil) (Max=1000mil) (Preferred=85mil) (InNet('V_OUT'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=24.25mil) (Max=1000mil) (Preferred=50mil) (InNet('NetQ1_1'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=24.25mil) (Max=1000mil) (Preferred=50mil) (InNet('VIN2'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=14mil) (Max=1000mil) (Preferred=25mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=110.38mil) (Max=1000mil) (Preferred=120mil) (InNet('GND'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=110.38mil) (Max=1000mil) (Preferred=120mil) (InNet('VIN1'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=24.25mil) (Max=1000mil) (Preferred=50mil) (InNet('NetQ1_3'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=24.25mil) (Max=1000mil) (Preferred=50mil) (InNet('NetQ2_2'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=24.25mil) (Max=1000mil) (Preferred=50mil) (InNet('NetQ2_1'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=10mil) (All)
+   Violation between Minimum Annular Ring: (9.842mil < 10mil) Pad C3-1(665mil,1700mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.842mil < 10mil) Pad C3-2(665mil,1600mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.842mil < 10mil) Pad C5-1(825mil,825mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.842mil < 10mil) Pad C5-2(725mil,825mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+Rule Violations :4
+
+Processing Rule : Hole Size Constraint (Min=16mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=16mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Parallel Segment Constraint (Gap=10mil ) (Limit=10000mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Length Constraint (Min=0mil) (Max=2000mil) (InNet('VIN2'))
+Rule Violations :0
+
+Processing Rule : Length Constraint (Min=0mil) (Max=3000mil) (InNet('V_OUT'))
+Rule Violations :0
+
+Processing Rule : Length Constraint (Min=0mil) (Max=2000mil) (InNet('VIN1'))
+Rule Violations :0
+
+Processing Rule : Length Constraint (Min=0mil) (Max=2000mil) (InNet('VIN3'))
+Rule Violations :0
+
+Processing Rule : Length Constraint (Min=0mil) (Max=3000mil) (All)
+Rule Violations :0
+
+Processing Rule : Length Constraint (Min=0mil) (Max=8000mil) (InNet('GND'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 5
+Waived Violations : 0
+Time Elapsed        : 00:00:01
